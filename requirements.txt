@@ -47,6 +47,6 @@ sphinx == 1.7.1
 sqlalchemy == 1.1.14
 tensorflow == 1.4.0rc0
 tensorflow_tensorboard == 0.1.2
-werkzeug == 0.12.2
+werkzeug ==0.14.1
 wheel == 0.30.0
 wrapt == 1.10.11
