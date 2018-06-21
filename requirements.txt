@@ -11,7 +11,7 @@ numpy == 1.14.5
 pandas == 0.23.1
 pylint == 1.9.2
 pyparsing == 2.2.0
-pyqt5 == 5.9
+pyqt5 ==5.10.1
 pyqtgraph == 0.10.0
 python-dateutil == 2.7.3
 pytz == 2018.4
