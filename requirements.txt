@@ -14,7 +14,7 @@ pyparsing == 2.2.0
 pyqt5 == 5.9
 pyqtgraph == 0.10.0
 python-dateutil == 2.7.3
-pytz == 2018.4
+pytz==2018.5
 scipy == 1.1.0
 setuptools_scm == 2.1.0
 sip == 4.19.8
