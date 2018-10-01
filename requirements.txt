@@ -27,7 +27,7 @@ multiprocess == 0.70.5
 netCDF4 == 1.4.1
 numpy == 1.15.2
 pandas == 0.23.4
-pbr == 3.1.1
+pbr==4.2.0
 pillow == 4.3.0
 pluggy == 0.6.0
 protobuf == 3.4.0
