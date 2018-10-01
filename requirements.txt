@@ -39,7 +39,7 @@ pyqtgraph == 0.10.0
 pytest == 3.6.3
 python-dateutil == 2.7.3
 pytz == 2018.5
-pywavelets == 0.5.2
+pywavelets==1.0.1
 PyYAML == 3.12
 pyzmq == 16.0.3
 scikit-learn == 0.19.0
