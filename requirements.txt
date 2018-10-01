@@ -29,7 +29,7 @@ numpy == 1.15.2
 pandas == 0.23.4
 pbr == 3.1.1
 pillow == 4.3.0
-pluggy == 0.6.0
+pluggy==0.7.1
 protobuf == 3.4.0
 py == 1.5.4
 pylint == 2.1.1
