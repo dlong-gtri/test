@@ -6,7 +6,7 @@ bleach == 2.1.4
 breathe == 4.10.0
 cycler == 0.10.0
 dateutil == 2.7.3
-deap == 1.0.2
+deap == 1.2.2
 dill == 0.2.7.1
 docutils == 0.14
 enum34 == 1.1.6
