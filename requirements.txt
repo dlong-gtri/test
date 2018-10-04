@@ -52,5 +52,5 @@ sphinx == 1.7.1
 sqlalchemy == 1.1.14
 urllib3 == 1.22
 werkzeug == 0.12.2
-wheel == 0.32.0
+wheel==0.32.1
 wrapt == 1.10.11
