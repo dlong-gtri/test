@@ -2,8 +2,8 @@ astroid == 2.0.4
 atomicwrites == 1.2.0
 attrs == 18.2.0
 backports.weakref == 1.0.post1
-bleach == 2.1.4
-breathe == 3.0.0
+bleach == 3.0.0
+breathe == 4.10.0
 cycler == 0.10.0
 dateutil == 2.7.3
 deap == 1.2.2
