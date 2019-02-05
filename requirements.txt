@@ -37,7 +37,7 @@ pyparsing == 2.3.0
 pyqt5 == 5.9
 pyqtgraph == 0.10.0
 pytest == 4.0.1
-python-dateutil == 2.7.5
+python-dateutil==2.8.0
 pytz == 2018.7
 pywavelets == 1.0.1
 PyYAML == 3.13
