@@ -34,7 +34,7 @@ protobuf == 3.6.1
 py == 1.7.0
 pylint == 2.2.2
 pyparsing == 2.3.0
-pyqt5 == 5.9
+pyqt5==5.12.1
 pyqtgraph == 0.10.0
 pytest == 4.0.1
 python-dateutil == 2.7.5
