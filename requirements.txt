@@ -33,7 +33,7 @@ pluggy == 0.8.0
 protobuf == 3.6.1
 py == 1.7.0
 pylint == 2.2.2
-pyparsing == 2.3.0
+pyparsing==2.4.4
 pyqt5 == 5.9
 pyqtgraph == 0.10.0
 pytest == 4.0.1
