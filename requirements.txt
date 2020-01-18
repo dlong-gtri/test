@@ -36,7 +36,7 @@ pylint == 2.2.2
 pyparsing == 2.3.0
 pyqt5 == 5.9
 pyqtgraph == 0.10.0
-pytest == 4.0.1
+pytest==5.3.3
 python-dateutil == 2.7.5
 pytz == 2018.7
 pywavelets == 1.0.1
