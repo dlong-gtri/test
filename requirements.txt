@@ -21,7 +21,7 @@ lxml == 4.2.5
 markdown == 3.0.1
 matplotlib == 3.0.2
 mccabe == 0.6.1
-mock == 2.0.0
+mock==4.0.1
 more-itertools == 4.3.0
 multiprocess == 0.70.6.1
 netCDF4 == 1.4.2
