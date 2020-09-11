@@ -3,7 +3,7 @@ atomicwrites == 1.2.1
 attrs == 18.2.0
 backports.weakref == 1.0.post1
 bleach == 3.0.2
-breathe == 4.11.0
+breathe == 4.21.0
 cycler == 0.10.0
 dateutil == 2.7.3
 deap == 1.2.2
