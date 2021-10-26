@@ -8,7 +8,7 @@ cycler == 0.10.0
 dateutil == 2.7.3
 deap == 1.2.2
 dill == 0.2.8.2
-docutils == 0.14
+docutils==0.18
 enum34 == 1.1.6
 greenlet == 0.4.15
 hmmlearn == 0.2.1
