@@ -11,7 +11,7 @@ dill == 0.2.8.2
 docutils == 0.14
 enum34 == 1.1.6
 greenlet == 0.4.15
-hmmlearn == 0.2.1
+hmmlearn==0.2.8
 html5lib == 1.0.1
 isort == 4.3.4
 jinja2 == 2.10
