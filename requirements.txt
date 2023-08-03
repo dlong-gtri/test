@@ -22,7 +22,7 @@ markdown == 3.0.1
 matplotlib == 3.0.2
 mccabe == 0.6.1
 mock == 2.0.0
-more-itertools == 4.3.0
+more-itertools==10.1.0
 multiprocess == 0.70.6.1
 netCDF4 == 1.4.2
 numpy == 1.15.4
